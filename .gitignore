@@ -28,8 +28,8 @@ local.properties
 captures/
 .externalNativeBuild/
 .cxx/
-.apk
-.aab
+*.apk
+*.aab
 output.json
 
 # IntelliJ
